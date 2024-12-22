@@ -1,6 +1,7 @@
 # Suits ⚖️
 
 Your intelligent Python assistant that operates directly on your code objects, powered by Google's Gemini AI.
+
 Check out the PyPI Docs: https://pypi.org/project/suits/0.0.2/
 
 ## Why Suits?
