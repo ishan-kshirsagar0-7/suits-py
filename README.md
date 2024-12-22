@@ -1,8 +1,8 @@
 # Suits ⚖️
 
 Your intelligent Python assistant that operates directly on your code objects, powered by Google's Gemini AI.
-
-Check out the PyPI Docs: https://pypi.org/project/suits/0.0.2/
+- Check out the PyPI Docs: https://pypi.org/project/suits/0.0.2/
+- Get your own API Key for Free: https://aistudio.google.com/apikey
 
 ## Why Suits?
 
@@ -13,6 +13,7 @@ Ever wished you could just tell your code what you want it to do? That's exactly
 - **Real-time Integration**: Results can be immediately used in your code
 - **Natural Language Interface**: No need to remember complex APIs or methods
 - **Intelligent Understanding**: Grasps context and intent from your instructions
+- **Usage Costs**: Forever **free** API key
 
 ### Perfect For:
 - Data scientists cleaning messy datasets
