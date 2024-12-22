@@ -119,7 +119,9 @@ result = donna.i_need_you_to("clean this list and make all elements integers")
 ### Structured Output
 Need results in a specific format? Define a schema class and Donna will deliver:
 ```python
-class AnalysisSchema:
+import typing_extensions as typing
+
+class AnalysisSchema(typing.TypedDict):
     summary: str
     count: int
     
